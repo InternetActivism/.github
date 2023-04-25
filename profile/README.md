@@ -1,4 +1,5 @@
-## Peace Through Code
+![Peace Through Code](https://user-images.githubusercontent.com/50386081/234387549-802b62fa-99d5-4b9e-af54-2abc4792e9a9.png)
+
 Internet Activism is an international non-profit organization that develops digital tools to address global humanitarian issues. We partner with other humanitarian organizations to deploy our solutions to those in need.
 
 Some examples of our work:
